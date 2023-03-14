@@ -11,11 +11,11 @@ SPRINT.TASK is written on your user story card.
 FEATURE_TITLE, BUGFIX_TITLE is a descriptive title of your branch separated with dashes.
 
 ### Feature branches
-`<TEAM_MEMBER>#<SPRINT>.<TASK>-feature/<FEATURE_TITLE>`
+`<TEAM_MEMBER>#<TASK>-feature/<FEATURE_TITLE>`
 
 ### Bugfix branches
 
-`<TEAM_MEMBER>#<SPRINT>.<TASK>-bugfix/<BUGFIX_TITLE>`
+`<TEAM_MEMBER>#<TASK>-bugfix/<BUGFIX_TITLE>`
 
 ### Examples
 
